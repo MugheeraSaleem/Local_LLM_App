@@ -1,4 +1,4 @@
-# llama.cpp
+
 This repo is based on Llama.cpp implementation at https://github.com/ggml-org/llama.cpp
 
 ## Demo
