@@ -1,6 +1,10 @@
 # llama.cpp
 This repo is based on Llama.cpp implementation at https://github.com/ggml-org/llama.cpp
 
+## Demo
+
+[![Watch the demo](docs/demo-thumbnail.png)](https://github.com/MugheeraSaleem/Local_LLM_App/blob/main/docs/AppDemo.mp4)
+
 <details>
 <summary>Models</summary>
 
